@@ -1,0 +1,19 @@
+const CONSTANTS = {
+  PAGE_WIDTH: 13.333,
+  PAGE_HEIGHT: 7.5,
+
+  SAFE_MARGIN_X: 0.65,
+  SAFE_MARGIN_Y: 0.55,
+
+  HEADER_HEIGHT: 0.55,
+  FOOTER_HEIGHT: 0.35,
+
+  CARD_RADIUS: 0.16,
+  CARD_BORDER: 1,
+
+  LOGO_HEIGHT: 0.42,
+
+  VERSION: "EPF V1",
+};
+
+module.exports = { CONSTANTS };
